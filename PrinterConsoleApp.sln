@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterConsoleApp", "PrinterConsoleApp\PrinterConsoleApp.csproj", "{FCDCD338-12B9-4827-A2D2-CB4F620D77E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterConsoleWebPage", "PrinterConsoleWebPage\PrinterConsoleWebPage.csproj", "{4A577578-159E-4D83-B4B4-94963EB8A71B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FCDCD338-12B9-4827-A2D2-CB4F620D77E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCDCD338-12B9-4827-A2D2-CB4F620D77E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCDCD338-12B9-4827-A2D2-CB4F620D77E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A577578-159E-4D83-B4B4-94963EB8A71B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A577578-159E-4D83-B4B4-94963EB8A71B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A577578-159E-4D83-B4B4-94963EB8A71B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A577578-159E-4D83-B4B4-94963EB8A71B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
